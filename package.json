@@ -1,11 +1,10 @@
 {
-    "name": "pipeline",
-    "version": "1.0.0",
-    "description": "Projeto de exemplo para GitHub Pages com GitHub Actions",
-    "scripts": {
-      "build": "echo 'Build step running...'"
-    },
-    "author": "Seu Nome",
-    "license": "MIT"
-  }
-  
+  "name": "pipeline",
+  "version": "1.0.0",
+  "description": "Projeto de exemplo para GitHub Pages com GitHub Actions",
+  "scripts": {
+    "build": "echo 'Build step running...'"
+  },
+  "author": "Seu Nome",
+  "license": "MIT"
+}
